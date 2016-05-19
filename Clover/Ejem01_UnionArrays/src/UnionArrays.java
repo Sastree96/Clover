@@ -34,4 +34,9 @@ public class UnionArrays {
 		}
 		return c;
 	}
+
+	public static void main (String args[]) {
+		UnionArrays ua = new UnionArrays(); 
+	
+	}
 }
